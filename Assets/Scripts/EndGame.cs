@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class EndGame : MonoBehaviour
 {
+    //adding commentsss
     
     public int time = 50;
     public int scene = 3;
