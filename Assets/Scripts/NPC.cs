@@ -6,6 +6,7 @@ using TMPro;
 
 public class NPC : MonoBehaviour
 {
+    //comment
     //This looks terrible im sorry
 
     //i fixed some of the apostraphes that were weird -cameron
